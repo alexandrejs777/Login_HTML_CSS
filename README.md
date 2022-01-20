@@ -2,7 +2,7 @@
 Estudo de criação de uma tela de login utilizando HTML/CSS do canal Markzuel no Youtube
 
 #
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexandrejs777/dsmovie/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexandrejs777/Login_HTML_CSS/blob/main/LICENSE) 
 
 # Sobre o projeto
 
