@@ -24,8 +24,8 @@ Uma tela de login simples e agradável as tendências atuais utiizando um backgr
 
 Ao Professor [Markzuel](https://www.instagram.com/markzuel/)
 
-# instruções
-Link para o vídeo tutorial: https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel
+# Link
+Vídeo tutorial: https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel
 
 # Autor
 
