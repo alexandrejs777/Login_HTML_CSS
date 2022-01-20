@@ -6,9 +6,10 @@ Estudo de criação de uma tela de login utilizando HTML/CSS do canal Markzuel n
 
 # Sobre o projeto
 
-Link da página
-
 Uma tela de login simples e agradável as tendências atuais utiizando um background escuro e botões com cores chamativas.
+
+# Link para a página do projeto
+https://alexandrejs777.github.io/Login_HTML_CSS/
 
 ## Layout desktop
 ![Tela principal](https://github.com/alexandrejs777/assets/blob/main/Tela%20de%20Login%20Markzuel/login_desktop.png)
