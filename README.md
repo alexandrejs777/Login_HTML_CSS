@@ -18,15 +18,15 @@ https://alexandrejs777.github.io/Login_HTML_CSS/
 ![Tela principal responsivo](https://github.com/alexandrejs777/assets/blob/main/Tela%20de%20Login%20Markzuel/login_mobile.png)
 
 # Tecnologias utilizadas
-## Front-end
+
 - HTML / CSS
 
 # Agradecimentos
 
-Ao Professor [Markzuel](https://www.instagram.com/markzuel/)
+Ao instrutor [Markzuel](https://www.instagram.com/markzuel/) por dividir seu conhecimento com excelente didática.
 
-# Link
-Vídeo tutorial: https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel
+# Link para o vídeo tutorial
+https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel
 
 # Autor
 
