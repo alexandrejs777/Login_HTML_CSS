@@ -66,6 +66,7 @@ body {
 .card-login > h1 {
     color: #00FF88;
     font-weight: 800;
+    text-transform: uppercase;
 }
 
 .textfield {
@@ -114,3 +115,37 @@ body {
     box-shadow: 0 10px 40px -12px #00FF8052;
 }
 
+@media only screen and (max-width: 900px) {
+
+    .card-login {
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+
+    .main-login {
+        flex-direction: column;
+    }
+
+    .left-login {
+        width: 100%;
+        height: auto;
+    }
+
+    .left-title > h1, h2 {
+        font-size: 5vw;
+        color: #77FFC0;
+    }
+
+    .left-login-image {
+        width: 40vh;
+        margin-bottom: 10px;
+    }
+
+    .right-login {
+        width: 100%;
+        height: auto;
+    }
+
+}
